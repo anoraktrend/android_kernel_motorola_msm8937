@@ -32,7 +32,7 @@
 #include <linux/miscdevice.h>
 #include <linux/slab.h>
 #include <linux/uaccess.h>
-#include <../arch/arm/include/asm/mach-types.h>
+//#include <../arch/arm/include/asm/mach-types.h>
 #include <../arch/arm/include/asm/setup.h>
 #include <linux/wakelock.h>
 #include <linux/jiffies.h>
